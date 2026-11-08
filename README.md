@@ -9,3 +9,7 @@ A Python program for managing events such as conferences, workshops, or parties.
 - Delete an event
 - Register attendees for an event, and add, update, or delete attendee information
 - Print the event schedule, including each event's details and its registered attendees
+
+## Usage
+
+Follow the on-screen menu to choose an action, such as adding an event.
